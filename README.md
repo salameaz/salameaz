@@ -9,8 +9,8 @@ B.sc Information Systems Graduate and Experienced Backend Software Developer.
 
 ## 🛠️ Tools I Use
 
-- **Languages:** Python, Java, SQL  
-- **Databases:** MySQL, OpenSearch  
+- **Languages:** Python, Java, JavaScript, PowerShell
+- **Databases:** MySQL, PostgreSQL, OpenSearch  
 - **Cloud:** AWS (EC2, API Gateway, CloudWatch)  
 - **Other:** REST APIs, GitHub Actions, Power BI, Linux
 
