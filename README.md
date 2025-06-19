@@ -20,9 +20,7 @@ B.sc Information Systems Graduate and Experienced Backend Software Developer.
 
 ### [🔬 AI Code Quality Research](https://github.com/salameaz/Evaluation-of-the-code-quality-generated-by-Generative-AI)  
 A research project evaluating code written by generative AI tools.  
-📌 Ranked top 5 in a college-wide seminar.  
-📹 [Presentation video](https://www.facebook.com/heli.iluz/videos/1081612640308607/)
-
+📌 Ranked top 5 in a college-wide seminar.
 ---
 
 ### [📄 PDF Process RAG](https://github.com/salameaz/pdf-process-rag)  
