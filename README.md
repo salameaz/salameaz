@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salame Azbarka
 
-B.sc Information Systems Graduate and Experienced Software Developer.
+Experienced Software Developer and B.sc Information Systems Graduate.
 
 - 🧑‍💻 Interested in backend development, data pipelines, and cloud tools.
 - 📫 Reach me at: [salameazb@gmail.com](mailto:salameazb@gmail.com)
