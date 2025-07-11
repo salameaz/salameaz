@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salame Azbarka
 
-B.sc Information Systems Graduate and Experienced Backend Software Developer.
+B.sc Information Systems Graduate and Experienced Software Developer.
 
 - 🧑‍💻 Interested in backend development, data pipelines, and cloud tools.
 - 📫 Reach me at: [salameazb@gmail.com](mailto:salameazb@gmail.com)
@@ -11,8 +11,8 @@ B.sc Information Systems Graduate and Experienced Backend Software Developer.
 
 - **Languages:** Python, Java, JavaScript, PowerShell
 - **Databases:** MySQL, PostgreSQL, OpenSearch  
-- **Cloud:** AWS (EC2, API Gateway, CloudWatch)  
-- **Other:** REST APIs, GitHub Actions, Power BI, Linux
+- **Cloud:** AWS (EC2, API Gateway, CloudWatch), Serverless Framework
+- **Other:** REST APIs, GitHub Actions, Linux, Power BI
 
 ---
 
@@ -40,11 +40,12 @@ Cleaned, visualized, and explored trends in 135,000+ rows.
 
 - **AWS Academy Cloud Architecting**  
   [View Badge](https://www.credly.com/badges/216fbd7b-8c2e-4de4-b2f2-8cfdad352ee8/public_url)
+- **GitHub Foundations**
+  [View Badge](https://www.credly.com/badges/9a5865b3-e78e-47e9-a977-024a39137117)
 
 ---
 
 
-- [LinkedIn](https://linkedin.com/in/salameaz)  
-- [GitHub](https://github.com/salameaz)
+- [LinkedIn](https://linkedin.com/in/salameaz)
 
 ---
